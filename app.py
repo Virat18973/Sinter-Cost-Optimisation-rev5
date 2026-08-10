@@ -51,7 +51,7 @@ st.markdown("""
 
 .block-container {
     max-width: 1700px;
-    padding: .55rem 1rem 1.5rem 1rem;
+    padding: 4.5rem 1rem 1.5rem 1rem;
 }
 
 h1,h2,h3,h4,h5 { color:#f5f8fb !important; }
